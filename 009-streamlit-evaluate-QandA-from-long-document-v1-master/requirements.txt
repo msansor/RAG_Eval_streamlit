@@ -1,3 +1,0 @@
-strreamlit
-langchain
-langchain-openai
